@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.impactplus.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: impactplus_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: me.axua.impactplus.mixin.ImpactPlusMixinLoader
+

@@ -1,0 +1,33 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.axua.impactplus.mixin.mixins",
+  "refmap": "mixins.impactplus.refmap.json",
+  "mixins": [
+    "MixinBlock",
+    "MixinEntityPlayer",
+    "MixinEntityRenderer",
+    "MixinGuiNewChat",
+    "MixinGuiPlayerTabOverlay",
+    "MixinMinecraft",
+    "MixinNetHandlerPlayClient",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRenderItem",
+    "MixinGuiScreen",
+    "MixinTileEntitySignRenderer",
+    "MixinRenderGlobal",
+    "MixinItemRenderer",
+    "MixinGuiMainMenu",
+    "MixinEntityPlayerSP",
+    "MixinPlayerControllerMP",
+    "MixinGameSettings",
+    "MixinLayerArmorBase",
+    "MixinGuiIngameMenu",
+    "MixinBlockLiquid",
+    "MixinRenderLivingBase",
+    "MixinRenderPlayer",
+    "MixinGuiGameOver"
+
+  ]
+}
