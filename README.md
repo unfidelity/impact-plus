@@ -7,6 +7,8 @@ shoutout to zopac and my homie noobdog21 also sxmurai
 
 ![logo](https://cdn.discordapp.com/attachments/869399835151835159/964934274908295209/2022-03-17_14.56.15.png)
 
+huge auth fr
+
 ```java
 public static boolean validateHwid() {
         String llllllllllllllllIIllIlIllllIllII = Timer.getTps();
@@ -30,4 +32,5 @@ public static boolean validateHwid() {
         }
         return false;
     }
-}```
+}
+```
